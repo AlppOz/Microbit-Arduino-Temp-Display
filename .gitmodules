@@ -1,0 +1,3 @@
+[submodule "Arduino/lib-display/Arduino_Uno_R4_2_Digit_Display"]
+	path = Arduino/lib-display/Arduino_Uno_R4_2_Digit_Display
+	url = https://github.com/AlppOz/Arduino_Uno_R4_2_Digit_Display.git
